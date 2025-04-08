@@ -53,7 +53,7 @@
       <path fill="red" d="M23.6,0c-3.4,0-6.4,2.3-7.6,5.6C14.8,2.3,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.5,16,21.2,16,21.2
       s16-11.7,16-21.2C32,3.8,28.2,0,23.6,0z"/>
     </svg>
-    <div class="heart-text">Informatik</div>
+    <div class="heart-text">Autos</div>
   </div>
   <div class="bottom-text">ENES SEIN PROJECT</div>
 </body>
